@@ -34,9 +34,9 @@
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 - [About Us](#about-us)
-  - [Project Manger](#project-manger)
+<!--   - [Project Manger](#project-manger)
   - [FrontEnd Developer](#frontend-developer)
-  - [BackEnd Developer](#backend-developer)
+  - [BackEnd Developer](#backend-developer) -->
 
 ## Overview
 
@@ -83,6 +83,6 @@
 
 ## About Us
 - [Luong Tuong Quy](https://github.com/QuyLuong)
-- [Nguyen Thi Nhu Y]
+- [Nguyen Thi Nhu Y](https://github.com/ynguyenntc)
 - [Phan Le Xuan Truong](https://github.com/XuanTruong2408)
 - [Nguyen Dinh Sang](https://github.com/nguyendinhsang1609)
